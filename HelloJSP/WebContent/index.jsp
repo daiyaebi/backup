@@ -7,6 +7,7 @@ pageEncoding="UTF-8"%>
 <title>HelloServlet</title>
 </head>
 <body>
+test
 <input type="button" value="HelloServlet" onClick="location.href='HelloServlet'">
 </body>
 </html>
